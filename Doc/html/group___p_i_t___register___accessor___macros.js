@@ -1,0 +1,25 @@
+var group___p_i_t___register___accessor___macros =
+[
+    [ "PIT_CVAL", "group___p_i_t___register___accessor___macros.html#ga1f704e3151c143875a7e5b7885d40401", null ],
+    [ "PIT_CVAL0", "group___p_i_t___register___accessor___macros.html#ga1dac4545eedde3892dc8e7ae0cccef12", null ],
+    [ "PIT_CVAL1", "group___p_i_t___register___accessor___macros.html#ga05f8f179370194321ac462f64c522f1b", null ],
+    [ "PIT_CVAL_REG", "group___p_i_t___register___accessor___macros.html#ga0513f6bb6550d10e2877f1918dfdc80e", null ],
+    [ "PIT_LDVAL", "group___p_i_t___register___accessor___macros.html#ga732af43ad85f111181e3a2664f18de3d", null ],
+    [ "PIT_LDVAL0", "group___p_i_t___register___accessor___macros.html#ga7ec0541e320eaa3953407fd3f8ff3a89", null ],
+    [ "PIT_LDVAL1", "group___p_i_t___register___accessor___macros.html#ga732e39dd7d06bdb77860245b0df7ddab", null ],
+    [ "PIT_LDVAL_REG", "group___p_i_t___register___accessor___macros.html#ga2fe8b64df48316de72596736de1bbb00", null ],
+    [ "PIT_LTMR64H", "group___p_i_t___register___accessor___macros.html#ga48f7990fb994d993f7e3fda0293b0ccc", null ],
+    [ "PIT_LTMR64H_REG", "group___p_i_t___register___accessor___macros.html#gaceb428eb9c33daef7dad0ac03bd5102d", null ],
+    [ "PIT_LTMR64L", "group___p_i_t___register___accessor___macros.html#gad74feae96488d1c1ae3c92af5e546359", null ],
+    [ "PIT_LTMR64L_REG", "group___p_i_t___register___accessor___macros.html#ga963e3dbc0c45569ec8366a0b2a6255f2", null ],
+    [ "PIT_MCR", "group___p_i_t___register___accessor___macros.html#gad6118acee6a1de4d21ceaae97156642b", null ],
+    [ "PIT_MCR_REG", "group___p_i_t___register___accessor___macros.html#ga557d2712a651961dcd5ffc4f04673239", null ],
+    [ "PIT_TCTRL", "group___p_i_t___register___accessor___macros.html#ga1e01a4d06bd01661e9e0c6a6be5cd289", null ],
+    [ "PIT_TCTRL0", "group___p_i_t___register___accessor___macros.html#ga69451042c98e3686ff97b19ac3286c92", null ],
+    [ "PIT_TCTRL1", "group___p_i_t___register___accessor___macros.html#ga9d54d5e1171b4a28c37378ef1c1ae68b", null ],
+    [ "PIT_TCTRL_REG", "group___p_i_t___register___accessor___macros.html#ga4c2f72ad95fb4104612b319ce7a7d4d9", null ],
+    [ "PIT_TFLG", "group___p_i_t___register___accessor___macros.html#ga69836a5d28fbefe3eeac99190be5af1f", null ],
+    [ "PIT_TFLG0", "group___p_i_t___register___accessor___macros.html#gae2b298ddb758a7dc16ce719dcb63f708", null ],
+    [ "PIT_TFLG1", "group___p_i_t___register___accessor___macros.html#ga5d7ccc39277323f8ca60edc409365aea", null ],
+    [ "PIT_TFLG_REG", "group___p_i_t___register___accessor___macros.html#ga79831c0452f96ca1b71292189ad382eb", null ]
+];

@@ -1,0 +1,27 @@
+var group___u_a_r_t0___register___accessor___macros =
+[
+    [ "UART0_BDH", "group___u_a_r_t0___register___accessor___macros.html#ga0f086bea96574c5a4b90ff7ce1a99256", null ],
+    [ "UART0_BDH_REG", "group___u_a_r_t0___register___accessor___macros.html#ga1786ecc749d15c69e1f6b3ebb5b07976", null ],
+    [ "UART0_BDL", "group___u_a_r_t0___register___accessor___macros.html#ga12ffbaeca152984beb3cbd1edaf94ee2", null ],
+    [ "UART0_BDL_REG", "group___u_a_r_t0___register___accessor___macros.html#ga9117ec6b275fdf09acabb04ce0d0d6a0", null ],
+    [ "UART0_C1", "group___u_a_r_t0___register___accessor___macros.html#ga74d107fda097e4ca0559efe5ab105cbf", null ],
+    [ "UART0_C1_REG", "group___u_a_r_t0___register___accessor___macros.html#ga923e607588dfd8dd218e437afaa00c71", null ],
+    [ "UART0_C2", "group___u_a_r_t0___register___accessor___macros.html#gaa96db8ca05ad8075993439b98fc41e04", null ],
+    [ "UART0_C2_REG", "group___u_a_r_t0___register___accessor___macros.html#gafb7e1fb088da5fb6b39ef150333580c7", null ],
+    [ "UART0_C3", "group___u_a_r_t0___register___accessor___macros.html#ga3c9f4285d3471fb4833ff6cf1131b438", null ],
+    [ "UART0_C3_REG", "group___u_a_r_t0___register___accessor___macros.html#ga4a87ca420c6856607af4b5f50d6414a2", null ],
+    [ "UART0_C4", "group___u_a_r_t0___register___accessor___macros.html#ga872dbf2a778697ea6e01a2d8a8b08869", null ],
+    [ "UART0_C4_REG", "group___u_a_r_t0___register___accessor___macros.html#gabc4a3f220e1d978c3fcca2b38a1fc599", null ],
+    [ "UART0_C5", "group___u_a_r_t0___register___accessor___macros.html#ga68f548f83ee16efb6cdd0cd5c37ebed3", null ],
+    [ "UART0_C5_REG", "group___u_a_r_t0___register___accessor___macros.html#ga852f349be956e4aa40d470695a17b7c0", null ],
+    [ "UART0_D", "group___u_a_r_t0___register___accessor___macros.html#ga2dea5280025ba01ef69f0fa6a6505cf1", null ],
+    [ "UART0_D_REG", "group___u_a_r_t0___register___accessor___macros.html#gaf62db9b8f24ffd168223414a6d8df5be", null ],
+    [ "UART0_MA1", "group___u_a_r_t0___register___accessor___macros.html#ga1ed5f65c9f9d7626053f21aa9f4a5b1f", null ],
+    [ "UART0_MA1_REG", "group___u_a_r_t0___register___accessor___macros.html#ga816c5853220eec2ae21d55bb06fca86d", null ],
+    [ "UART0_MA2", "group___u_a_r_t0___register___accessor___macros.html#gaa28e0bdbb01cd6891123e351772bcf41", null ],
+    [ "UART0_MA2_REG", "group___u_a_r_t0___register___accessor___macros.html#ga3e06e7b1da53413767f86e8e5aae8900", null ],
+    [ "UART0_S1", "group___u_a_r_t0___register___accessor___macros.html#ga36c55a027dd65bed765a4620326c669b", null ],
+    [ "UART0_S1_REG", "group___u_a_r_t0___register___accessor___macros.html#ga9eadfd0c0a45ee8aa7ac442645b631e5", null ],
+    [ "UART0_S2", "group___u_a_r_t0___register___accessor___macros.html#ga86da7584b44d3ee391fa4dd012bc0eeb", null ],
+    [ "UART0_S2_REG", "group___u_a_r_t0___register___accessor___macros.html#gab3a5594a193c466180bf31f5539bd61e", null ]
+];
